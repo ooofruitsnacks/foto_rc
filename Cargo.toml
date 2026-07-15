@@ -1,8 +1,10 @@
 [package]
 name = "foto_flasher"
-version = "0.0.1"
+version = "1.0.2"
 edition = "2021"
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
+image = { version = "0.25", features = ["avif"] }
+imagepipe = "0.5"
 
