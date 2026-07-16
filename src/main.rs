@@ -1,3 +1,5 @@
+/// an open source project created by Owen Edwards | ACS 'a creative solution' for everyone to use and enjoy :)
+/// v.1.0.2
 use clap::{Parser, ValueEnum};
 use image::codecs::avif::AvifEncoder;
 use image::codecs::jpeg::JpegEncoder;
